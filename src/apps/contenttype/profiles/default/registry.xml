@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<registry>
+
+  <record name="plone.displayed_types" interface="Products.CMFPlone.interfaces.controlpanel.INavigationSchema" field="displayed_types">
+    <value purge="False">
+      <element>app</element>
+    </value>
+  </record>
+
+</registry>
