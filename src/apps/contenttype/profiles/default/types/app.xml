@@ -32,6 +32,9 @@
     <element value="plone.namefromtitle" />
     <element value="plone.excludefromnavigation" />
     <element value="plone.textindexer" />
+    <element value="plone.ownership" />
+    <element value="volto.preview_image" />
+    <element value="volto.preview_image_link" />
     <!-- <element value="plone.versioning" />-->
   </property>
   <property name="model_source" />
