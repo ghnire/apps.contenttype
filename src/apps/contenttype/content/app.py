@@ -24,6 +24,7 @@ class IApp(model.Schema):
         required=True,
     )
 
+    textindexer.searchable("applink")
     applink = schema.URI(
         title="Application URI",
         description="Enter the URI to the application",
