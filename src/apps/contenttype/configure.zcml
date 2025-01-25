@@ -23,4 +23,9 @@
 
   <!-- -*- extra stuff goes here -*- -->
 
+  <utility
+      factory=".serializers.summary.JSONSummarySerializerMetadata"
+      name="plone.volto.summary_serializer_metadata"
+      />
+
 </configure>
