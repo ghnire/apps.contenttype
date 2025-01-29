@@ -14,12 +14,11 @@ long_description = f"""
 
 setup(
     name="apps.contenttype",
-    version="1.0.0a0",
+    version="1.0.1",
     description="A contenttype for registering URIs as Apps",
     long_description=long_description,
     long_description_content_type="text/markdown",
     classifiers=[
-        "Development Status :: 3 - Alpha",
         "Environment :: Web Environment",
         "Framework :: Plone",
         "Framework :: Plone :: Addon",
